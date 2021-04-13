@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170783585245",
+    "project_id": "mygo-73721",
+    "storage_bucket": "mygo-73721.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170783585245:android:0bc4183efc246113c17c34",
+        "android_client_info": {
+          "package_name": "com.example.mygo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170783585245-68ndspimfqdombqqq7uohg37bjsjt7l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvqyJiLdOOrP3rlPFpSQbLc0_50y1C6SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170783585245-68ndspimfqdombqqq7uohg37bjsjt7l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
